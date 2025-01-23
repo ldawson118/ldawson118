@@ -19,5 +19,12 @@ Hello, my name is Luke Dawson.
 
 I am currently working towards a Bachelor's degree in Computer Science at Wright State University.
 
-This semester, I will be learning Data Structures and Algorithms, and learning how to implement them to write more efficient and effective programs.
-I am also currently learning about Cyber Network Security and using it to make applications that are safe and secure.
+# Semester Goals
+- I am learning about Data Structures and Algorithms, and how to implement them to write more efficient and effective programs.
+- I am also currently learning about Cyber Network Security and will be using it to make my applications safe and secure.
+
+# Where to find me
+
+Email: dawson.118@wright.edu
+Github: https://github.com/ldawson118
+LinkedIn: www.linkedin.com/in/luke-dawson-00793a33b
