@@ -1,4 +1,4 @@
-# About Me
+## Hi there 👋
 
 <!--
 **ldawson118/ldawson118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, my name is Luke Dawson
+Hello, my name is Luke Dawson.
+
+I am currently working towards a Bachelor's degree in Computer Science at Wright State University.
+
+This semester, I will be learning Data Structures and Algorithms, and learning how to implement them to write more efficient and effective programs.
+I am also currently learning about Cyber Network Security and using it to make applications that are safe and secure.
