@@ -25,6 +25,6 @@ I am currently working towards a Bachelor's degree in Computer Science at Wright
 
 # Where to find me
 
-Email: dawson.118@wright.edu
-Github: https://github.com/ldawson118
-LinkedIn: www.linkedin.com/in/luke-dawson-00793a33b
+- Email: dawson.118@wright.edu
+- Github: https://github.com/ldawson118
+- LinkedIn: www.linkedin.com/in/luke-dawson-00793a33b
